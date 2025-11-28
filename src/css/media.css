@@ -1,0 +1,16 @@
+@media (max-width: 460px) {
+  .quiz-welcome {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+
+  .quiz-rules {
+    margin-bottom: 15px;
+    font-size: 14px;
+  }
+
+  .questions {
+    gap: 8px;
+    padding: 10px;
+  }
+}
