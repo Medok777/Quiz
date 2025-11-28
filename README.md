@@ -1,44 +1,30 @@
-# Quiz
+# 🎯 TypeScript Quiz
 
-🎯 TypeScript Quiz
+A clean and interactive quiz built with **TypeScript** and **Web Components**.  
+Test your fundamental TypeScript skills and see how well you can handle 10 fast-paced questions.
 
-An interactive quiz with 10 questions designed to test and improve your fundamental TypeScript and frontend knowledge.
+---
 
-🚀 Features
+## 🚀 Features
 
-✔️ 10 multiple-choice questions
-✔️ Score tracking stored in localStorage
-✔️ 30-second timer for each question
-✔️ Navigation between previous and next questions
-✔️ Progress bar showing completion
-✔️ Final results screen with restart option
-✔️ Built using Web Components (Custom Elements)
-✔️ Clean and minimalistic dark interface
+- ✔️ **10 multiple-choice questions**
+- ✔️ **Score tracking saved in `localStorage`**
+- ✔️ **30-second countdown timer** for each question
+- ✔️ **Navigation buttons** (Next / Back)
+- ✔️ **Progress bar** that fills as you advance
+- ✔️ **Final result screen** with score summary
+- ✔️ Powered by **Web Components (Custom Elements)**
+- ✔️ **Minimalistic dark UI**
 
-🛠 Technologies
+---
 
-HTML / CSS
+## 🛠 Technologies Used
 
-TypeScript
+- **HTML / CSS**
+- **TypeScript**
+- **Web Components**
+- **LocalStorage**
+- **ES6+**
 
-Web Components
+---
 
-LocalStorage
-
-ES6+
-
-📦 Project Structure
-
-StartQuiz — quiz logic, navigation, timer
-
-QuestionList — rendering answer options
-
-FinallyWindow — displaying final results
-
-/src/css — styles
-
-/dist — compiled files
-
-🎮 How It Works
-
-Click "Start Quiz", answer the questions, and keep an eye on the timer. At the end, you’ll see your final score and can retry the quiz anytime.
