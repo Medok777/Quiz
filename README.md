@@ -28,3 +28,6 @@ Test your fundamental TypeScript skills and see how well you can handle 10 fast-
 
 ---
 
+![Quiz Preview](https://gifs.ru/gifs/8616)
+
+
